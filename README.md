@@ -10,13 +10,11 @@ reporting tools, with track record of connecting teams, streamlining processes, 
 - Cross-Team Collaboration
 - Salesforce, Excel (Advanced), Tableau, JIRA 
 ## WORK EXPERIENCE
-- **Independent Contractor** 
-– Transportation & Delivery Services
-  - Part-time, Self-Employed, Various CA Locations 
-08/2024 - Present 
-• Optimized routes and schedules, boosting productivity and earnings. 
-• Tracked metrics to improve efficiency and maintain a 4.9-star rating. 
-Business Systems Analyst • Full-time 
+- **Independent Contractor - Transportation & Delivery Services**
+  - Part-time, Self-Employed, Various CA Locations, 08/2024 - Present
+    - Optimized routes and schedules, boosting productivity and earnings.
+    - Tracked metrics to improve efficiency and maintain a 4.9-star rating. 
+- **Business Systems Analyst** • Full-time 
 doTERRA International LLC • Pleasant Grove, UT, USA 
 02/2024 - 05/2024 
 • Turned business needs into actionable specs; cut project delays by 30%. 
